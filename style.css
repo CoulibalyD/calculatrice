@@ -12,7 +12,7 @@ h2 {
 
 form {
     margin: 0 auto;
-    width: 200px;
+    width: auto;
     border: 1px solid #ccc;
     padding: 20px;
     background-color: #fff;
